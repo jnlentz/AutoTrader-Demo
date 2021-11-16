@@ -1,2 +1,3 @@
-API_KEY = '9sfN9PZMBwN9ADiMdKTjPx69pZhliXK1u5UAwBmzU3MHdzsYIW4o3cI8RpERO4qL'
-API_SECRET = '3IrjqiU7Lvlb7SH4KFX1AN6Y3ZhgiueneppMwqEW9eXYsbRk1uIJBSSuenr2sVLO'
+# Enter personal Binance API keys
+API_KEY = ''
+API_SECRET = ''
